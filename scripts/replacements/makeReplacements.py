@@ -18,7 +18,7 @@ def main():
 
 
   print("")
-  print(f 'Making replacements for {environment} environment.')
+  print(f'Making replacements for {environment} environment.')
   print("-------------------------------------------------------------")
 
   #Loop through environment replacements within JSON data file.
