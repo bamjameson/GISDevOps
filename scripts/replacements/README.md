@@ -1,6 +1,6 @@
 ![Image of Yaktocat](media/logo.png)
 
-Replacements will proccess string replacements for all files of desired type.
+String replacements for all files of desired type.
 
 # Parameters
 `<replacementsFile>`: Path to the file that stores all your desired environment replacements.
