@@ -1,16 +1,5 @@
 # coding: utf-8
 
-#   This script will do a find a replace on all files of a desired type.
-
-#   Author: Carlos Krefft
-# 
-#   Example Usage: python makeReplacements.py "ReplacementsTemplate.json" "D:\site\" "TEST"
-
-#   Sample Usage:
-#     python makeReplacements.py <replacementsFile> <directory> <environment>
-
-
-
 import argparse
 import json
 import os
