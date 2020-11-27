@@ -1,2 +1,2 @@
 # Introduction
-Collection of DevOps build and deploy tools and pipelines for ESR related products.
+Collection of CI/CD tools and pipelines for GIS related products.
