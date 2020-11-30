@@ -1,0 +1,34 @@
+{
+    "DEV": 
+    [
+        {
+            "description": "Find Replace01 and replace it with Replace02",
+            "from": "Replace01",
+            "to": "Replace02"
+        }    
+    ],
+    "TEST": [
+        {
+            "description": "Find DEV domain and replace with TEST domain.",
+            "from": "dev.mydomain.com",
+            "to": "test.mydomain.com"
+        },
+        {
+            "description": "Find Replace02 and replace it with Replace03",
+            "from": "Replace02",
+            "to": "Replace03"
+        }             
+    ],
+    "PROD": [
+        {
+            "description": "Find TEST domain and replace with PROD domain.",
+            "from": "test.mydomain.com",
+            "to": "mydomain.com"
+        },
+        {
+            "description": "Find Replace02 and replace it with Replace03",
+            "from": "Replace03",
+            "to": "Replace04"
+        }    
+    ]
+}
